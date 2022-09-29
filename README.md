@@ -22,3 +22,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
 </div>
+  
+***
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlvinKimata&theme=onedark)](https://git.io/streak-stats)
