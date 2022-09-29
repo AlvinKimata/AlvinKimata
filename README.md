@@ -5,7 +5,7 @@
  ***
   ## I work as a data scientist and machine learning engineer, primarily on computer vision and recommendation system applications. I'm currently expanding my knowledge of reinforcement learning and speech processing.
   
-🔬 ### Programming languages and tools that I use:
+### 🔬 Programming languages and tools that I use:
   
 
 <div>
