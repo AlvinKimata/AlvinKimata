@@ -15,7 +15,9 @@
   </a>
   
 </div>
- ***
+  
+  
+***
   
   ## I work as a data scientist and machine learning engineer, primarily on computer vision and recommendation system applications. I'm currently expanding my knowledge of reinforcement learning and speech processing techniques.
   
