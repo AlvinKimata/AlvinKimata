@@ -4,9 +4,6 @@
  
  ## Connect with me.
  <div id="badges">
-  <a href="https://twitter.com/KimataDebonair">
-    <img src="https://img.shields.io/badge/Twitter-blue?&logo=twitter&logoColor=highcontrast" alt="Twitter Badge"/>
-  </a>
   <a href="https://www.linkedin.com/in/alvin-kimata-556660197/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin&logoColor=highcontrast" alt="LinkedIn Badge"/>
   </a>
